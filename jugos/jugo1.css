@@ -1,0 +1,46 @@
+body {
+    margin: 20;
+    padding: 20;
+    background-image: url(imagenes/img2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+iframe {
+    float: right;
+   padding-top: 0.5cm;
+   padding-right: 4.5cm;
+}
+.text li {
+    font-size: 1.5em;
+    font-weight: 200;
+    margin-left: 180px;
+    color: black;
+}
+.text p {
+    font-size: 1.5em;
+    font-weight: 200;
+    margin-left: 100px;
+    line-height: 75%;
+    color: #000;
+}
+.text h1 {
+    font-size: 3em;
+    font-weight: 800;
+    color: #4e0460;
+    line-height: 1em;
+    text-transform: uppercase;
+    margin-top: 150px;
+    margin-left: 150px;
+    
+}
+.text h2 {
+    font-size: 3em;
+    font-weight: 800;
+    color: #4e0460;
+    line-height: 1em;
+    text-transform: uppercase;
+    margin-top: 10px; 
+    margin-left: 150px;
+}
